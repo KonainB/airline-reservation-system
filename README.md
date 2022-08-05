@@ -75,5 +75,11 @@ _This project provides functionality to view flights using CRUD functionality._
 
 ![EER Diagram](https://user-images.githubusercontent.com/107124436/183050303-d6d5589c-649e-4878-9512-bc260dc4b48b.png)
 
+### How To Execute Project
+####
+* Ensure port 8080 in available
 
+* Only backend is available- use of POSTMAN to show output of data and functions of CRUD
+
+* Run as a Spring Boot Project
 
