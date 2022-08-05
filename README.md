@@ -5,7 +5,7 @@ _This project provides functionality to view flights using CRUD functionality._
 
 ### Features Included:
 #### 
-*Flight destination,..
+*Flight destination*
 *Flight date and time,..
 *Create new customer,..
 *Login page,..
