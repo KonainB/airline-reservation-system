@@ -71,6 +71,10 @@ _This project provides functionality to view flights using CRUD functionality._
 
 ![DeleteFlight](https://user-images.githubusercontent.com/107124436/183050121-98a49daf-8124-45fd-bb9f-1708b1672e6a.png)
 
+### Controller Test
+
+![ControllerTest](https://user-images.githubusercontent.com/107124436/183064454-961731e8-2611-4a95-999e-46ce0e0d01b8.png)
+
 ### EER DIAGRAM
 
 ![EER Diagram](https://user-images.githubusercontent.com/107124436/183050303-d6d5589c-649e-4878-9512-bc260dc4b48b.png)
