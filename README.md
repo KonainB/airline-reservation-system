@@ -29,7 +29,7 @@ _This project provides functionality to view flights using CRUD functionality._
 
 ### Project Overview
 
-![Project](https://user-images.githubusercontent.com/107124436/183046619-97750810-6641-41fc-a309-c620e5caf602.png)
+![ProjectLayout](https://user-images.githubusercontent.com/107124436/183065012-d8d0f6db-7e8a-45e5-8ba3-ce32a8f76816.png)
 
 ### Customer Table
 
